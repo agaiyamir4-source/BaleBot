@@ -36,7 +36,7 @@
     <application
         android:allowBackup="true"
         android:label="BaleBot"
-        android:theme="@android:style/Theme.DeviceDefault"
+        android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
         tools:targetApi="34">
 
         <activity
